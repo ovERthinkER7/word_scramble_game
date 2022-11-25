@@ -96,6 +96,14 @@ const words = [
       hint: "It makes up about 70% of body weight"
     },
     {
+      word: "kakarot",
+      hint: "Saiyan name of Goku"
+    },
+    {
+      word: "Sakura",
+      hint: "Trash character in the anime history"
+    },
+    {
         word: "expert",
         hint: "Person with extensive knowledge"
     },
